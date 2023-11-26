@@ -1,0 +1,5 @@
+.venv/
+.vscode/
+/src/
+CMakeUserPresets.json
+build*/
